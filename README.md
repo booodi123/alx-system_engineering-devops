@@ -1,1 +1,1 @@
-Devops Readme
+shell permissions
